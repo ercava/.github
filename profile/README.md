@@ -1,6 +1,6 @@
 <!DOCTYPE markdown>
 <p align="center">
-  <img src="https://ercava.github.io/logo/assets/erc/INTI%20KOMET.svg" alt="ERCAVA Logo" width="140">
+  <img src="https://ercava.github.io/logo.sv" alt="ERCAVA Logo" width="140">
 </p>
 
 <h1 align="center">Ercava Development Program</h1>
@@ -21,16 +21,9 @@
 
 ## Projects
 
-### Primary
-
-| Project | Description |
-|---------|-------------|
-| [Iconography Center](https://ercava.github.io/logo) | Catalog of Ercava iconography and artworks |
-
-### 📱 Applications
-
 | Project | Description | Status |
 |---------|-------------|--------|
+| [Iconography Center](https://ercava.github.io/logo) | Catalog of Ercava iconography and artworks | ✅ Live |
 | [GoPin](https://ercava.github.io/gopin) | Kopinma online shopping & delivery services | ✅ Live |
 | [Kabataku](https://ercava.github.io/kabataku/) | Study kata baku, adapted from acomarcho | ✅ Live |
 | [Cek TKA](https://ercava.github.io/cek-tka) | TKA results checking tool | ✅ Live |
