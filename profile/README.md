@@ -1,10 +1,9 @@
 <!DOCTYPE markdown>
 <p align="center">
-  <img src="https://ercava.github.io/logo.sv" alt="ERCAVA Logo" width="140">
+  <img src="https://ercava.github.io/logo.svg" alt="ERCAVA Logo" width="140">
 </p>
 
 <h1 align="center">Ercava Development Program</h1>
-
 <p align="center">
   <a href="https://ercava.github.io"><img src="https://img.shields.io/badge/Visit-Portal-blue?style=for-the-badge&logo=github" alt="Visit Portal"></a>
   <a href="https://www.youtube.com/@ercava29"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
@@ -65,16 +64,6 @@
 | 2025 | ERCAVA Development Program launched, Iconography Center, GoPin, Harian Pestamerta, Twibbon added |
 | 2026 | Molly, SNBT Prep, Cek TKA, Kabataku added |
 
----
-
-## Connect with #Ercavians
-
-<p align="center">
-  <a href="https://www.youtube.com/@ercava29"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
-  <a href="https://www.instagram.com/ercava29/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://twitter.com/Ercava29"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="mailto:a29manics@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
 
 ---
 
